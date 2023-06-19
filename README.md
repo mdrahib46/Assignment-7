@@ -5,8 +5,9 @@ This is a simple Flutter app that displays a list of products and allows the use
 Make sure you have Flutter installed. If not, follow the Flutter installation guide.
 Clone this repository to your local machine.
 Open the project in your preferred IDE or editor.
-Run flutter pub get to fetch the dependencies.
-Run the app using flutter run.
+Run "flutter pub get" to fetch the dependencies.
+Run the app using "flutter run".
+
 # Usage
 The app displays a list of products with their names, prices, and a "Buy Now" button. Each product also shows a counter indicating the quantity of that product in the cart.
 
@@ -23,5 +24,5 @@ To view the contents of the cart, tap on the shopping cart icon in the bottom ri
 ![Cart Page](https://github.com/mdrahib46/Assignment-7/assets/57681390/7b5c7a82-0cb9-470c-96b7-8496a345019f)
 
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
